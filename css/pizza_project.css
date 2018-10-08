@@ -1,0 +1,10 @@
+body {
+	background-image: url("../images/pizza_background.jpg");
+}
+
+
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
